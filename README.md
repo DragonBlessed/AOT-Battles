@@ -1,8 +1,6 @@
 # AOT-Battles
 
 A game that I am working on using Pygame from Python. 
-Ik video tutorials aren't ideal, but i just watched a tutorial to learn Pygame anyway because i cant be fucked reading pygame documentation atm.
-will modify code to make it more original.
 
 
 Ideas:
